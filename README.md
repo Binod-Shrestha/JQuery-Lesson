@@ -2,9 +2,9 @@
 JQuery Tutorials:
 This short coding snapshot is based on JQuery:Effects and Animations.
 The function used from the jQuery Library are:
--.append()
--.prepend()
--.stop()
+*.append()
+*.prepend()
+*.stop()
 -.toggle()
 -.css()
 -.text()
