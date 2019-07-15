@@ -1,5 +1,5 @@
 # JQuery-Lesson
-**JQuery Tutorials:**
+**JQuery Tutorials:**<br>
 This short coding snapshot is based on JQuery:Effects and Animations.
 The function used from the jQuery Library are:
 - .append()
@@ -20,7 +20,7 @@ The function used from the jQuery Library are:
 - .before()
 - .empty()
 - .detach()
-- .click()
+- .click()<br>
 **[Note: The code also contains the small demo of attractive animation using Clip-path]**
 
 
