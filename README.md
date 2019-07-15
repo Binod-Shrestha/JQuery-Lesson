@@ -14,7 +14,7 @@ The function used from the jQuery Library are:
 - .slideUp()
 - .slideDown()
 - .slideToggle()
--.animate()
+- .animate()
 - .stop()
 - .after()
 - .before()
