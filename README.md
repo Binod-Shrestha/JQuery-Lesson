@@ -1,5 +1,5 @@
 # JQuery-Lesson
-JQuery Tutorials:
+JQuery Tutorials:\n
 This short coding snapshot is based on JQuery:Effects and Animations.
 The function used from the jQuery Library are:
 - .append()
